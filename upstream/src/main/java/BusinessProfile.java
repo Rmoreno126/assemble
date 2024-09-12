@@ -14,4 +14,9 @@ public class BusinessProfile {
     public void getProfileDetails() {
         // Implementation here
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello world");
+
+    }
 }
